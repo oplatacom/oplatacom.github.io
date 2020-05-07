@@ -1,2 +1,4 @@
-# oplatacom.github.io
-repo takeover 
+#hello 
+#This repository is taken over.
+
+Thanks,
